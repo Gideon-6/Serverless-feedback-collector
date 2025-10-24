@@ -25,7 +25,8 @@ The application consists of a public submission form and a basic admin dashboard
 6. **Data Display:** A separate `list-feedback` **Lambda function** queries DynamoDB and returns all items to the admin dashboard for display.
 
 ### 🧭 Architecture Diagram
-[User Browser] ↔ [Static S3 Hosting]     ↓ (POST /feedback) [API Gateway] ↔ [Lambda (create-feedback)] ↔ [DynamoDB Table]     ↑ (GET /admin/feedback) [Admin Page] ↔ [Lambda (list-feedback)]
+<img width="802" height="545" alt="image" src="https://github.com/user-attachments/assets/6d4fc6f4-3410-4050-954f-debaf8146b0a" />
+
 
 
 ---
