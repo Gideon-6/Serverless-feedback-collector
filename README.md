@@ -3,7 +3,7 @@
 ### 🧑‍💻 Author: Budidha Gideon Joy  
 **College:** TKR College of Engineering and Technology  
 **Domain:** Cloud Computing and Serverless Architecture  
-**Duration:** [Insert Project Duration Here, e.g., 3 Days] Project
+**Duration:** 3 Days Project
 
 ---
 
